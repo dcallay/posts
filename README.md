@@ -1,1 +1,1 @@
-Twitter like app for learning react
+Twitter like app when learning react
